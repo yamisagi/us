@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://github.com/yamisagi/personal_expenses_app/blob/main/assets/product.gif" width="350" height="550">
+<img src="https://github.com/yamisagi/us/blob/main/assets/product.gif" width="350" height="550">
 
 
 In this project, I am trying to create an app includes our memories for my beloved wife as a gift for wedding anniversary that has the following features of basic Flutter features:
