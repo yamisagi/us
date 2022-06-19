@@ -1,0 +1,15 @@
+{
+    "info":"To manage strings of application. This will be include [TR] texts. Could create app_tr.arb file.",
+    "title":"App App",
+    "generalmessage":"Uygulama içerisindeki notları ve tarihleri yönetmek için kullanılır.",
+    "content":"Bu test contentidir.",
+    "beforeView":"Evlenmeden Önceki Anılar için Tıkla",
+    "engagement":"Nişan Anılarımız için Tıkla",
+    "marriage":"Evlilik Anılarımız için Tıkla",
+    "mainmessage":"Resimleri Sağa Kaydır",
+    "viewmessage":"Card Messajlarını buraya yazabilirsiniz."
+    
+
+   
+    
+}
